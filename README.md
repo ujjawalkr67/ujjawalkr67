@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ujjawal Kumar</h1>
-<h3 align="center">I am an open source & a machine learner enthusiast</h3>
+<h3 align="center">Open Source| Machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawalkr67&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawalkr67" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjawalkr67" alt="ujjawalkr67" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
-
-- 📝 I regularly write articles on [https://ujjawalsing.blogspot.com/](https://ujjawalsing.blogspot.com/)
 
 - 📫 How to reach me **ujjawalkr67@gmail.com**
 
