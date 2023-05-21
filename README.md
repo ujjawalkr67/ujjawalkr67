@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjawalkr67" alt="ujjawalkr67" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **ujjawalkr67@gmail.com**
 
